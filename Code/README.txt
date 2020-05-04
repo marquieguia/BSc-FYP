@@ -1,3 +1,1 @@
-'arrhenius_plot.ipynb' obtains the TPC and residual graph
-'create_eme_db.ipynb' 
-'get_residual_onetest.ipynb'
+'residuals.py' outputs a TPC and a residue graph of the input data. 
