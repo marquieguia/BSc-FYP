@@ -1,1 +1,1 @@
-'resmet_code' and 'growth_code' are two Jupyter Notebooks that input database on temperature-dependence of metabolic traits, and output the corresponding TPCs with a Schoolfield model fitted as well as a graph of the residuals with a linear regression fitted.
+
